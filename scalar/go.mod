@@ -1,4 +1,4 @@
-module github.com/yokeTH/gofiber-scalar/scalar/v2
+module github.com/guitar45628/gofiber-scalar/scalar/v2
 
 go 1.23.0
 
